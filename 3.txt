@@ -4,3 +4,4 @@ laba3
 end
 changed with Web-intreface
 changed local
+changed local one more
